@@ -1,3 +1,7 @@
+Deliverable by Miguel Angel Sempere Vicente and David Villanueva Álvarez.
+
+Github repository [here](https://github.com/DavidVillanuevaa/Assignment_2_ARP/ or https://github.com/scoobygalleta/arp2/ ).
+
 # Requirements
 To compile the application it is required:
 * ncurses library  
